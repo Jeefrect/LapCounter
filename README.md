@@ -22,6 +22,8 @@ Complete control over the organization of your races. Become an organizer and or
 **Other features:**
 - English and Russian language support.
 ## In the next update:
+- More new features.
+- Race configuration presets.
 - Quickly spawn all players at the start.
 - Set race numbers for players' cars.
   
