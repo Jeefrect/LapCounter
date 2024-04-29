@@ -26,3 +26,5 @@ Complete control over the organization of your races. Become an organizer and or
 - Set race numbers for players' cars.
   
 Do you have suggestions or you found a bug?  Let me know: https://discord.gg/kCFQKwnqU2
+
+## How to use the mod
