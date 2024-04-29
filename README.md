@@ -25,7 +25,7 @@ Complete control over the organization of your races. Become an organizer and or
 - More new features.
 - Race configuration presets.
 - Quickly spawn all players at the start.
-- Set race numbers for players' cars.
+- Set race number for player's car.
   
 Do you have suggestions or you found a bug?  Let me know: https://discord.gg/kCFQKwnqU2
 
