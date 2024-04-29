@@ -2,7 +2,7 @@
 ![LapCounterLogo](https://github.com/Jeefrect/LapCounter/assets/121081064/979ab13a-6c28-4d06-a49d-2703c023c4af)
 
 
-LapCounter is a complex mod for making circuit racing in CarX
+LapCounter is a complex mod for making circuit racing in CarX  
 Complete control over the organization of your races. Become an organizer and organize real races between your friends!
 
 > [!NOTE]
