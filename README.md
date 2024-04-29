@@ -1,5 +1,6 @@
 # LapCounter - CarX Drift Racing Online
-![LapCounterLogo](https://github.com/Jeefrect/LapCounter/assets/121081064/979ab13a-6c28-4d06-a49d-2703c023c4af)
+![LapCounterLogo2](https://github.com/Jeefrect/LapCounter/assets/121081064/06d8a431-b736-4baf-84be-2020ee0c4b34)
+
 
 
 LapCounter is a complex mod for making circuit racing in CarX  
