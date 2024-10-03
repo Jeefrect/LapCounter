@@ -13,12 +13,16 @@ Complete control over the organization of your races. Become an organizer and or
 **For organizers:**
 - Creating a race.
 - Controlling the race.
-- Setting spawnpoints for the players of the race.
+- Set your own zones: Pitlane, danger zones, DRS zones, etc.
+- GT, NASCAR, F1, TIME ATTACK, ETS.
+- Call SaftyCar, control the speed of different sections!
 
 **For race pilots:**
+- Smart system of penalties. 
 - Table with real-time race results.
 - Traction control for cars.
 - Radar.
+- Realistic features.
 
 **Other features:**
 - English and Russian language support.
